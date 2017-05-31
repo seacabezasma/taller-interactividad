@@ -1,0 +1,17 @@
+﻿General controller
+LB	Left bumper	1	BUTTON	Botón 4	0	0.0	0.0
+RB	Right bumper	1	BUTTON	Botón 5	0	0.0	0.0
+LT-RT	Left and right triggers	3	SLIDER	Eje Z	0	1.0	0.0
+LEFT_X	Left joystick x axis	3	SLIDER	Eje X	0	1.0	0.0
+LEFT_Y	Left joystick y axis	3	SLIDER	Eje Y	0	1.0	0.0
+RIGHT_X	Right joystick x axis	3	SLIDER	Rotación X	0	1.0	0.0
+RIGHT_Y	Right joystick y axis	3	SLIDER	Rotación Y	0	1.0	0.0
+LEFT_THUMB	Left thumb  joystick button	1	BUTTON	Botón 8	0	0.0	0.0
+RIGHT_THUMB	Right thumb joystick button	1	BUTTON	Botón 9	0	0.0	0.0
+BUTTON_A	A button	1	BUTTON	Botón 0	0	0.0	0.0
+BUTTON_B	B button	1	BUTTON	Botón 1	0	0.0	0.0
+BUTTON_X	X button	1	BUTTON	Botón 2	0	0.0	0.0
+BUTTON_Y	Y button	1	BUTTON	Botón 3	0	0.0	0.0
+BACK	Back button	1	BUTTON	Botón 6	0	0.0	0.0
+START	Start button	1	BUTTON	Botón 7	0	0.0	0.0
+D_PAD	Directional pad	2	HAT	cooliehat: Botón del control	0	1.0	0.0
